@@ -26,3 +26,5 @@ function generateColor(){
 
 const ulElem=false;
 
+
+const msg='hello'
