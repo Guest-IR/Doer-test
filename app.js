@@ -30,3 +30,5 @@ const ulElem=false;
 const msg='hello'
 
 const color=['red','green',12,'orange']
+
+

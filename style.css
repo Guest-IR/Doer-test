@@ -17,3 +17,7 @@ div{
     display:flex;
     gap:20rem;
 }
+h5{
+    color:yellow;
+    font-size:30px;
+}
