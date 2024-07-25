@@ -12,3 +12,7 @@ h2{
     text-align: center;
 }
 
+p{
+    background: red;
+    font-style: italic;
+}
