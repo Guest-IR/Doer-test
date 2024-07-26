@@ -31,5 +31,6 @@ Unorder
     - laravel
     - C#
     - Asp.net
+    ___
 
-    [git-resume](https://github.com/Guest-IR/git-test/blob/master/app.j)
+[git-hub resume](https://github.com/Guest-IR/git-test/blob/master/app.js)
