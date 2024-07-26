@@ -34,3 +34,7 @@ Unorder
     ___
 
 [git-hub resume](https://github.com/Guest-IR/git-test/blob/master/app.js)
+
+---
+
+![Image-link](https://octodex.github.com/images/dojocat.jpg)
